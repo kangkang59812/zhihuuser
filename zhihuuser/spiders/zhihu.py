@@ -8,8 +8,8 @@ from zhihuuser.items import UserItem
 import win_unicode_console
 win_unicode_console.enable()
 
-phone = '13938859812'
-password = '38859812li'
+phone = ''
+password = ''
 get_url = 'zhihu.com/'
 login_url = 'https://www.zhihu.com/api/v3/oauth/sign_in'
 captcha_url = 'https://www.zhihu.com/api/v3/oauth/captcha?lang=en'
